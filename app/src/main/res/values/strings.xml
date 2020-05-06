@@ -2,5 +2,7 @@
     <string name="app_name">PicPay</string>
     <string name="title">Contatos</string>
     <string name="error">Ocorreu um erro. Tente novamente.</string>
+    <string name="empty_error">Não encontramos usuários cadastrados</string>
+    <string name="refresh_button_description">Atualizar contatos</string>
 
 </resources>
